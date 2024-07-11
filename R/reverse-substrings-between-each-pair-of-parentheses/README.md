@@ -2,8 +2,8 @@
 
 ## Solutions
 ### Stack
-Time Complexity: O(n<sup>2</sup>);
-Space Complexity: O(n);
+>   Time Complexity: O(n<sup>2</sup>)
+    Space Complexity: O(n)
 
 ```cpp
 #include <bits/stdc++.h>
